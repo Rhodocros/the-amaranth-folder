@@ -1,9 +1,9 @@
 {
   "id": "the-amaranth-folder",
   "title": "The Amaranth Folder",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "manifest": "https://github.com/Rhodocros/the-amaranth-folder/releases/latest/download/module.json",
-  "download": "https://github.com/Rhodocros/the-amaranth-folder/releases/download/1.0.2/module.zip",
+  "download": "https://github.com/Rhodocros/the-amaranth-folder/releases/download/1.0.3/module.zip",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
